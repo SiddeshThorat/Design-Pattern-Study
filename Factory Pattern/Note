@@ -1,0 +1,19 @@
+Key-Points
+- Creational Pattern
+- Provides way of creating objects
+
+Description
+- This design pattern is used when there is need of creating many different types of objects.
+-  In the design pattern we have a factory class using which we can create objects of several different types.
+
+Advantages and When to use
+- Can create several objects using same factory class.
+- Make creating objects easier
+
+Disadvantages/ Limitations
+
+Steps to run this file
+git clone
+cd Factory Pattern
+tsc index.ts
+node index.js
