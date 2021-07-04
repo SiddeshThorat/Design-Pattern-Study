@@ -1,6 +1,7 @@
 Key-Points
 - Creational Pattern
-- Provides way of creating objects
+- Provides way of creating objects of different types
+- Hides the logic of object instantiation using new operator
 
 Description
 - This design pattern is used when there is need of creating many different types of objects.
