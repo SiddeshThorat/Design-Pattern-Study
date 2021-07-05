@@ -1,0 +1,23 @@
+Key-Points
+- Creational Pattern
+- Provides way of creating objects
+
+Description
+- This design pattern in an extension to factory design pattern. It provides us a way to create
+factories which could be further used to create objects
+
+Advantages and When to use
+- Can create several factories using same abstract factory class.
+
+Disadvantages/ Limitations
+- Code bcomes complex
+- most complex patterns amongst all
+
+
+Steps to run this file
+git clone
+cd Abstract Factory Pattern
+tsc index.ts
+node index.js
+tsc app.ts
+node app.js
