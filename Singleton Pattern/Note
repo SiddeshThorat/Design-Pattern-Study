@@ -1,0 +1,23 @@
+Key-Points
+- Creational Pattern
+
+Description
+- This pattern provides one of the best way of creating objects
+- This pattern involves a single class which is responsible to create an object
+- and it also makes usre that only single object gets created.
+- The class provides way to access its only object 
+
+Advantages and When to use
+- Can be used when we want to create only sinlge object and use it in many different 
+locations
+- Ideal for following cases
+  - Classes without attributes
+  - class has a read only state
+
+Disadvantages/ Limitations
+
+Steps to run this file
+git clone
+cd Singleton Pattern
+tsc index.ts
+node index.js
